@@ -1,19 +1,18 @@
 //
-//  ViewController.swift
+//  GoalController.swift
 //  goal_tracker
 //
-//  Created by Ricardo Rosales Romero on 18/08/23.
+//  Created by Ricardo Rosales Romero on 13/10/23.
 //
 
 import UIKit
 
-class ViewController: UIViewController {
+class GoalController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
+
         // Do any additional setup after loading the view.
     }
 
-
 }
-
